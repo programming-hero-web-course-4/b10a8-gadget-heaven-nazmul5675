@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "title": "Wireless Bluetooth Earbuds",
+        "image": "https://www.startech.com.bd/image/cache/catalog/earbuds/hoco/ew25/ew25-01-228x228.webp",
+        "category": "Audio",
+        "price": 79.99,
+        "description": "High-quality wireless earbuds with noise cancellation.",
+        "specs": [
+            "Bluetooth 5.0",
+            "20hrs battery life",
+            "IPX7 waterproof"
+        ],
+        "available": true,
+        "rating": 4.5,
+        "brand": "SoundPro"
+    },
+    {
+        "id": 2,
+        "title": "Over-Ear Noise-Cancelling Headphones",
+        "image": "https://www.applegadgetsbd.com/_next/image?url=https%3A%2F%2Fadminapi.applegadgetsbd.com%2Fstorage%2Fmedia%2Fthumb%2FHoco-W35-Max-Wireless-Headphone-Black-6635.jpg&w=256&q=100",
+        "category": "Audio",
+        "price": 199.99,
+        "description": "Premium over-ear headphones with active noise cancellation.",
+        "specs": [
+            "40mm drivers",
+            "30hrs battery life",
+            "Foldable design"
+        ],
+        "available": true,
+        "rating": 4.7,
+        "brand": "AudioMaster"
+    },
+    {
+        "id": 3,
+        "title": "Portable Bluetooth Speaker",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlOPE-hFXEpvFnmUTtT-MCf9h9_71oZkc4kg&s",
+        "category": "Audio",
+        "price": 129.99,
+        "description": "Compact and powerful Bluetooth speaker for outdoor use.",
+        "specs": [
+            "20W output",
+            "15hrs battery life",
+            "IP67 waterproof"
+        ],
+        "available": true,
+        "rating": 4.6,
+        "brand": "BoomSound"
+    },
+    {
+        "id": 4,
+        "title": "True Wireless Earbuds",
+        "image": "https://www.startech.com.bd/image/cache/catalog/earbuds/hoco/ew25/ew25-01-228x228.webp",
+        "category": "Audio",
+        "price": 59.99,
+        "description": "Affordable true wireless earbuds with great sound quality.",
+        "specs": [
+            "Bluetooth 5.2",
+            "18hrs battery life",
+            "Touch controls"
+        ],
+        "available": true,
+        "rating": 4.3,
+        "brand": "SoundWave"
+    },
+    {
+        "id": 5,
+        "title": "Studio Monitor Headphones",
+        "image": "https://www.pqs.com.bd/image/cache/catalog/headphone/Audio%20Technica%20/m70x-2-500x500-500x500.jpg",
+        "category": "Audio",
+        "price": 149.99,
+        "description": "Professional-grade headphones for studio monitoring.",
+        "specs": [
+            "Flat frequency response",
+            "Wired connection",
+            "Comfortable fit"
+        ],
+        "available": true,
+        "rating": 4.8,
+        "brand": "AudioPro"
+    },
+    {
+        "id": 6,
+        "title": "Wireless On-Ear Headphones",
+        "image": "https://www.pqs.com.bd/image/cache/catalog/headphone/Audio%20Technica%20/m70x-2-500x500-500x500.jpg",
+        "category": "Audio",
+        "price": 89.99,
+        "description": "Lightweight wireless headphones for everyday use.",
+        "specs": [
+            "Bluetooth 5.1",
+            "25hrs battery life",
+            "Foldable design"
+        ],
+        "available": true,
+        "rating": 4.4,
+        "brand": "SoundMax"
+    },
+    {
+        "id": 7,
+        "title": "Smartwatch Pro",
+        "image": "https://www.pqs.com.bd/image/cache/catalog/headphone/Audio%20Technica%20/m70x-2-500x500-500x500.jpg",
+        "category": "Wearables",
+        "price": 149.99,
+        "description": "Advanced smartwatch with health and fitness tracking.",
+        "specs": [
+            "1.75\" AMOLED display",
+            "7-day battery life",
+            "Water-resistant"
+        ],
+        "available": true,
+        "rating": 4.6,
+        "brand": "TechWear"
+    },
+    {
+        "id": 8,
+        "title": "Fitness Tracker",
+        "image": "https://www.pqs.com.bd/image/cache/catalog/headphone/Audio%20Technica%20/m70x-2-500x500-500x500.jpg",
+        "category": "Wearables",
+        "price": 69.99,
+        "description": "Compact fitness tracker with heart rate monitoring.",
+        "specs": [
+            "Color display",
+            "14-day battery life",
+            "IP68 waterproof"
+        ],
+        "available": true,
+        "rating": 4.2,
+        "brand": "FitGear"
+    },
+    {
+        "id": 9,
+        "title": "4K Action Camera",
+        "image": "https://www.pqs.com.bd/image/cache/catalog/headphone/Audio%20Technica%20/m70x-2-500x500-500x500.jpg",
+        "category": "Cameras",
+        "price": 249.99,
+        "description": "Ultra HD action camera for capturing adventures.",
+        "specs": [
+            "4K/60fps video",
+            "Waterproof casing",
+            "Wi-Fi connectivity"
+        ],
+        "available": true,
+        "rating": 4.7,
+        "brand": "ActionPro"
+    },
+    {
+        "id": 10,
+        "title": "Mirrorless Camera",
+        "image": "https://www.pqs.com.bd/image/cache/catalog/headphone/Audio%20Technica%20/m70x-2-500x500-500x500.jpg",
+        "category": "Cameras",
+        "price": 599.99,
+        "description": "Professional mirrorless camera for photography enthusiasts.",
+        "specs": [
+            "24MP sensor",
+            "4K video recording",
+            "Interchangeable lenses"
+        ],
+        "available": true,
+        "rating": 4.9,
+        "brand": "PhotoMaster"
+    }
+]
